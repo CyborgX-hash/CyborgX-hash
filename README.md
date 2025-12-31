@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m passionate about coding, robotics, and sports<br>Currently learning Web Development and Data Structures & Algorithms<br>Ask me about JavaScript, Python, HTML/CSS, or beginner robotics projects<br>Looking to collaborate on open-source web apps, robotics projects, or beginner-friendly tech communities
+I’m passionate about coding, robotics, and sports<br>Currently a Full Stack Developer and learning Data Structures & Algorithms<br>Ask me about JavaScript, Python, HTML/CSS, or beginner robotics projects<br>Looking to collaborate on open-source web apps, robotics projects, or beginner-friendly tech communities
 
 
 ## 🌐 Socials:
